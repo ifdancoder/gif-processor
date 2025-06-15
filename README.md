@@ -1,4 +1,4 @@
-# GIF to Panorama and Full Frame Converter
+# GIF Stabilizer, converter to Panorama and Full Frame Converter
 
 Этот репозиторий содержит 3 Python-скрипта для обработки GIF-изображений:
 1. **`eis_gif.py`** – стабилизировать GIF.
